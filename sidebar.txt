@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gur:home|Door43 (gur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gur|d43-gur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gur/archive/master.zip|d43-gur.zip]]
+
+**Recent Changes**
+{{changes>ns = gur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gur|Ethnologue data]]
+
